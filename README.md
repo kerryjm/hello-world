@@ -1,2 +1,4 @@
 # hello-world
-Ideas, resources, etc. 
+Hi, Kerry here. This is my first repo in github. Yay!
+
+Here I'm going to store ideas, resources, etc. 
